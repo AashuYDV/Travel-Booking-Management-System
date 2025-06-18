@@ -99,7 +99,8 @@ Entity-Relationship and Relational Diagrams are included to visualize:
 - Cardinality and participation
 - Primary and foreign key connections
 
-> *(You can include images here with: `![ERD](images/ERD.png)`)*
+![Alt Text](Relatioanal_Schema.png)
+
 
 ---
 
